@@ -6,6 +6,6 @@ def richness(target_texts):
     types.append(LexicalRichness(element).terms)
     TTR.append(LexicalRichness(element).ttr)
 
-   print("Number of tokens:", tokens)
-  print("Number of types:", types)
-  print("Type-token ratio:", TTR)
+    print("Number of tokens:", tokens)
+    print("Number of types:", types)
+    print("Type-token ratio:", TTR)
