@@ -1,0 +1,10 @@
+from lexicalrichness import LexicalRichness
+
+for element in target_texts: 
+  tokens.append(LexicalRichness(element).words)
+  types.append(LexicalRichness(element).terms)
+  TTR.append(LexicalRichness(element).ttr)
+
+print("Number of tokens:", tokens)
+print("Number of types:", types)
+print("Type-token ratio:", TTR)
