@@ -6,11 +6,11 @@
 # Command: python3 filter.py <source_file_path> <target_file_path> <source_lang> <target_lang>
 
 
-#import pandas as pd
-#import numpy as np
-#import re
-#import csv
-#import sys
+import pandas as pd
+import numpy as np
+import re
+import csv
+import sys
 
 # display(df) works only if you are in IPython/Jupyter Notebooks or enable:
 #from IPython.display import display
