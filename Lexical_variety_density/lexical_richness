@@ -4,14 +4,15 @@ tokens = []
 types = []
 TTR = []
 
-def richness(target_texts):
-  for element in target_texts: 
-    tokens.append(LexicalRichness(element).words)
-    types.append(LexicalRichness(element).terms)
-    TTR.append(LexicalRichness(element).ttr)
+def richness(input_text):
+  tokens.append(LexicalRichness(input_text).words)
+  types.append(LexicalRichness(input_text).terms)
+  TTR.append(LexicalRichness(input_text).ttr)
 
   print("Number of tokens:", tokens)
   print("Number of types:", types)
   print("Type-token ratio:", TTR)
 
-richness(target_texts)
+input_text = sys.argv[1]
+
+richness(input_text)
