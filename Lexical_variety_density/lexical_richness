@@ -1,4 +1,5 @@
 from lexicalrichness import LexicalRichness
+import sys 
 
 tokens = []
 types = []
