@@ -13,3 +13,5 @@ def richness(target_texts):
   print("Number of tokens:", tokens)
   print("Number of types:", types)
   print("Type-token ratio:", TTR)
+
+richness(target_texts)
