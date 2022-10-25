@@ -1,6 +1,6 @@
 # DataLit<sup>MT</sup>
 
-![KeyVisual_DataLitMT](https://user-images.githubusercontent.com/77116913/197732625-3ed4f5e4-1cec-4d55-947b-027ba987cbff.jpg)
+![KeyVisual_DataLitMT - Kopie](https://user-images.githubusercontent.com/77116913/197732814-066252b7-1c83-498f-8c6b-36037227cc3b.jpg)
 
 The DataLit<sup>MT</sup> project at the Institute of Translation and Multilingual Communication at TH Köln, Germany, aims to develop didactic resources for teaching data literacy to BA students of translation studies/specialised communication programmes. The aim is for students working with these resources to develop an adequate MT literacy for their later professional career while at the same time becoming data-savvy citizens well equipped for the modern knowledge economy.
 
