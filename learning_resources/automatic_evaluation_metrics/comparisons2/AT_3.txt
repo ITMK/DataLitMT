@@ -1,0 +1,33 @@
+﻿
+PART III
+CRIMINAL LAW
+
+III.1. History and System of Criminal Law
+A crime is a wrongful act or omission, usually having consequences harmful to the community,1 and which is punished by the state following upon appropriate procedures.2 The function of the criminal law is the retributive punishment of an offender, not the compensation of someone who has suffered by reason of the unlawful act.3 The criminal law may also have other aims, such as deterrence of others from committing crime, and the condemnation of the proscribed conduct by society.
+Retribution is the immediate, and arguably the fundamental purpose in the infliction of punishment on a particular offender. In addition, through punishment the offender may expiate his crime, and there may also be an associated reformation of the criminal through post-conviction procedures. These additional aims are secondary to the purpose of retribution, which provides the nexus between crime and punishment, and its justification. Were retribution not a necessary element there is no reason why the criminal process should not be used pre-emptively to deal with persons thought likely to commit offences. Of course, where questions of sanity are concerned action may lawfully be taken before an offence is committed, and there are circumstances in which crime can and should be prevented. However, the normal position from which British law operates is that an offence must be committed, or be just about to be committed, before the civil authority will intervene. Potential criminals are not tackled until that potentiality is about to be or has been realised.
+In the usual instance, a breach of the law is either a crime (a criminal offence) or a civil wrong.4 Normally such a breach has a single set of consequences - either criminal or civil. However, a crime and a civil wrong can be committed in a single act. This is because a crime and a civil wrong are distinguished not by the nature of the act which gives rise to them, but by the legal consequences which follow. If the subsequent proceedings are criminal trial, a crime has been committed; if civil, a civil wrong has been committed. In the case of criminal proceedings a prosecutor prosecutes the defendant (Scot. = accused or pannel) on a criminal charge. If the prosecutor succeeds the defendant is convicted and a sentence is imposed to punish the offender. In the case of a civil action, the defendant (Scot. = defender) is sued, and, if the action is successful, a judgement is given against him which is enforceable through the ordinary processes of the civil law.
+The distinction between criminal and civil wrongdoing is found in both English and Scots law from an early stage and seems to have existed prior to the availability of historical records. In both jurisdictions court decisions elaborated a common law of crime to which statute law added both in volume and in precision. In recent years in England a Criminal Law Revision Committee has advised the Home Secretary and a series of statutes has initiated a move towards a wholly statutory Criminal Law. However, a Scot (whose legal system has not made similar moves5) may perhaps comment that the English doctrines governing the interpretation of statutes, and the principle that no-one shall be punished except for a breach of known law, has occasionally produced odd results in the application and enforcement of the statutory codes. The repair of 'defects' in the tapestry of the statutory English criminal law has not always produced a satisfactory result.
+In Scotland a great deal of the criminal law remains a matter of common law, permitting the courts to adjust to changing requirements and circumstances. Statutory crimes exist, but the 'traditional' crimes remain matters of the common law. In Scottish practice a common law crime with which an offender is charged need not be specified by name. It is sufficient that the charge sets out facts which are both relevant and sufficient to constitute a crime. Analyses of the principles inherent in court decisions, and statements as to the nature and ambit of the criminal law by various institutional writers (i.e. those now recognised as authoritative (see Part I Sec. I.4.3 Law books and 4 Commentaries) have assisted in the development of the body of Scottish criminal law. In addition the system of Crown prosecutors who decide whether and where to prosecute affects the application of the criminal law in particular cases (see below, Sec. III.5.3 Criminal prosecution). This can have a broader effect also. In general if, say, a particular charge comes to be treated by the prosecutors as obsolete6 the result is that the law is de facto altered without the need for legislation or contentious discussion. As England has recently moved to a system of state prosecutors, a similar effect is to be expected there.
+In both countries a system of criminal courts deals with the criminal law. These structures have been outlined above in Part I Sec. I.2.2.b Criminal jurisdiction.
+
+
+Quelle:
+Lyall, Francis (2002), An Introduction to British Law, 2. Auflage, Baden-Baden: Nomos
+
+
+1 In British law it is possible for an injurious act to affect another with his consent, but not affect the community at large, and yet the act may be dealt with as a crime. Thus in R v Brown, [1993] 2 All ER 75, convictions for assault were upheld against individuals engaging in private in sadomasochistic practices, each individually being there willingly, and freely consenting to what was done to him.
+2 Punishment is not integral to the definition in that a crime is a crime whether or not the criminal is dealt with.
+3 See below, n. 27.
+4 I omit the breach of a procedure. In some circumstances breach of a procedure can be a serious criminal offence (e.g. a failure to comply with licensing requirements in environmental matters).
+5 Immediately after the first edition of this book my comment was partially invalidated by the passing of the Criminal Law (Consolidation) Act 1995 and the Criminal Procedure (Scotland) Act 1995. Nonetheless, in broad terms it remains true.
+6 For example a charge of blasphemy is unlikely to be brought in Scotland although theoretically it is an offence at common law. It remains triable in England: R v Gay News; R v Lemon, [1979] AC 617, 68 Cr App Rep 381 (HL).
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+1
+
