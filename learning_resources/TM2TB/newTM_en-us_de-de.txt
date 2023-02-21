@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<header creationtool="Smartcat" creationtoolversion="6.4636.0.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>See the name of the file you are working on and the language pair.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Dateiname und Sprachpaar</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Move tag one word left M): Move the selected tag one word to the left area.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tag um ein Wort nach links verschieben M): Mit dieser Funktion wird das ausgewählte Tag um ein Wort nach links verschoben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>View all TM matches for a segment</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alle TM-Matches für ein Segment anzeigen</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Exporting Lilt Memories</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ein Lilt Memory exportieren</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Once confirmed/accepted, the segment will display a green checkmark (for confirmed) or a double green checkmark (for accepted) next to the segment number and the checkmark in the bottom-right will turn into a cross that be clicked to unconfirm/unaccept the segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ist das Segment bestätigt, erscheint links neben der Segmentnummer entweder ein grüner Haken für bestätigt, oder ein doppelter grüner Haken für akzeptiert. Das Kreuz unten rechts im Segment wird zu einem Haken, den Sie anklicken können, um das Segment wieder abzulehnen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Auto-Propagation always occurs for unconfirmed segments.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Auto-Propagation erfolgt nur bei unbestätigten Segmenten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124516Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt typically improves baseline models once a year using general purpose data. Baseline models do not adapt based on data from individual Projects.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt überarbeitet die Baseline-Engine normalerweise einmal im Jahr anhand von allgemeinen Daten, nicht anhand der Daten einzelner Projekte.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Forward/Backward Auto-Propagation: When enabled and a segment is confirmed, Lilt uses the segment's target text to fill and replace the target text of other segments with matching source content forward/backward in the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Auto-Propagation für vorherige/folgende Segmente: Ist diese Funktion aktiviert, übernimmt Lilt die Zielseite eines bestätigten Segments automatisch für die Zielseite anderer vorheriger/folgender Segmente mit identischer Ausgangsseite.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>These examples are pulled from a variety of sources, including a static set of public concordance data available to everyone, all memories created by uploading TMX files or translating in Lilt, and TMX files you can specifically choose to only upload for concordance (which will have no effect on the machine translation model).</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese Kontextbeispiele stammen aus folgenden drei Quellen: 1) einem festen Bestand aus frei zugänglichen Textkorpora, 2) in Lilt erstellten Memories, die durch das Hochladen von TMX-Dateien oder das Übersetzen im Editor befüllt werden, und 3) TMX-Dateien, die speziell für die Konkordanzsuche hochgeladen werden, keinen Einfluss auf die MÜ-Engine haben und deren Inhalte nicht als TM-Matches angezeigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Accept all confirmed (Ctrl + Shift + Enter): Accept all segments in review mode that have been confirmed in translate mode.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alle bestätigten Segmente annehmen (STRG + UMSCHALT + EINGABE): Alle im Übersetzungsmodus bestätigten Segmente werden angenommen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Each Lilt Memory is shown as a card with the following information:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Jedes Lilt Memory wird als Schaltfläche mit folgenden Informationen angezeigt:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T123049Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>These are the same comments you can add using the View Note button  next to a segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gibt es zu einem Segment bereits einen Kommentar, können Sie neben dem Segment über die Schaltfläche „Kommentare anzeigen“ weitere Kommentare hinzufügen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Each Lilt Memory aggregates the following linguist assets:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Jedes Lilt Memory enthält folgende Übersetzungsressourcen:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Leaving comments</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Kommentarfunktion</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>To search for specific Lilt Memories, start typing in the search bar, and Lilt will actively filter the Lilt Memories that match as you type.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Um nach bestimmten Lilt Memories zu suchen, geben Sie den jeweiligen Namen des Memories in die Suchleiste ein. Während Sie tippen, werden in Lilt aktiv die passenden Lilt Memories gefiltert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T123139Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>If any TM entries are found with similar phrases to the segment, the highest matching, most recent TM entry is displayed under the segment as a translation suggestion.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn das Lilt Memory passende Matches enthält, erscheint das mit dem höchsten Matchwert als Übersetzungsvorschlag unter dem Zielsegment. Sind mehrere Matches mit identischem Matchwert vorhanden, wird der zuletzt hinzugefügte Eintrag angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Most recently updated</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>zuletzt aktualisiert</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Option 2: TXT format</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Option 2: TXT-Format</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If there are any identical TM entries in the associated Lilt Memory, the Segment context pane will display so.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gibt es im Lilt Memory identische TM-Einträge, wird dies im Bereich Segmentkontextsuche angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Updating a Lilt Memory will affect all Projects using that Lilt Memory (with no latency).</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Aktualisierung eines Lilt Memories wirkt sich ohne Verzögerung auf alle Projekte aus, in die das Memory eingebunden ist.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Substitutions from the source are displayed in superscript.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Stattdessen im Ausgangssegment verwendete Wörter sind hochgestellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The Lilt Platform</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Lilt Plattform</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Interactive MT</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die interaktive maschinelle Übersetzung</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Follow</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>abonnieren</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt Help Center home page</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt Hilfecenter Startseite</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Once created, you can Upload Memory Files to it, and you can make use of the Lilt Memory in your Projects.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Sobald das Memory erstellt wurde, wird es in der Liste angezeigt. Wenn Sie auf das Memory klicken, können Sie TM- und TB-Dateien importieren und es in Ihre Projekte einbinden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T123222Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>For users with Create/edit terminology data permissions (which by default is Managers and Administrators), QA rules can be added from inside the Editor by following the step below.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nutzer*innen mit der Berechtigung „terminologische Einträge erstellen/bearbeiten“ (mit den Rollen „Manager“ und „Administrator“), können QA-Regeln für ein TM im Editor anhand der folgenden Schritte hinzufügen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130240Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>In essence, the translator teaches the MT model to adapt translation suggestions to the style, grammar, and word choice of the translator.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Im Grunde trainieren Übersetzer*innen die MÜ-Engine also darauf, diese Übersetzungsvorschläge an ihre stilistischen, syntaktischen und lexikalischen Präferenzen anzupassen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Home</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Startseite</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>These settings are set on a per-account basis, with changes persisting across Documents and Projects.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese Einstellungen werden für alle Dokumente und Projekte eines Accounts übernommen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt is a language service provider that makes translation faster, more accurate, and more affordable for organizations around the world.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Mit den Angeboten von Lilt können Organisationen aller Art schneller, genauer und kostengünstiger Übersetzungen anfertigen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt is a language service provider that makes translation faster, more accurate, and more affordable for organizations around the world....</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt ist ein Programm, das Übersetzungen für Unternehmen auf der ganzen Welt schneller, präziser und erschwinglicher macht.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This section updates as you type.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese MÜ-Vorschläge werden während des Schreibvorgangs aktualisiert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This will open a popup that prepares the Lilt Memory for download and then lets you download the Lilt Memory as a TMX file.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Es wird ein Dialogfenster geöffnet, aus dem Sie das TM als TMX-Datei herunterladen können.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124659Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Baseline model: The baseline model is shared across all customers.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Baseline-Engine: Die Baseline-Engine steht allen Kund*innen zur Verfügung.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>To remove an existing rule, click on the trash can icon next to the rule.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Um eine vorhandene QA-Regel zu entfernen, klicken Sie rechts neben der Regel auf das Papierkorb-Symbol.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135213Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Open the File tab and click Run full QA check.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Öffnen Sie die Registerkarte „Datei“ und klicken Sie auf „vollständige Qualitätsprüfung durchführen“.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>1 month ago</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>vor 1 Monat</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Option 1: original format</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Option 1: Originalformat</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>My Memories: Displays all Lilt Memories you are the owner of.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Meine Memories: Auf der Seite „Meine Memories“ werden alle Lilt Memories angezeigt, die Sie erstellt haben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135259Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Inside the Memories tab are two pages:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Registerkarte „Memories“ befinden sich zwei Seiten:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Preview mode displays confirmed or accepted target segments with paragraph and HTML formatting.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Im Vorschaumodus werden bestätigte oder angenommene Zielsegmente mit Absatz- oder HTML-Formatierung angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If split view is enabled, target text is displayed to the right of the source text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ist die geteilte Ansicht aktiviert, wird der Zieltext rechts neben dem Ausgangstext angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The footer</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Fußzeile</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If you only want to export specific entries of a Lilt Memory, you can do so under the Manage Memory page by selecting the entries you want to export and then clicking the TM Entries button.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie nur bestimmte Einträge eines TMs exportieren möchten, können Sie diese auf der Seite Termbase verwalten auswählen und über die Schaltfläche TM-Einträge exportieren. Termbanken exportieren Sie über die Schaltfläche „Exportieren als CSV“, einzelne Terminologieeinträge auf der Seite „Termbase verwalten“.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If no matches exist above 75%, Lilt provides a Machine Translation (MT) suggestion.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gibt es keine Matches über 75%, wird von der MÜ-Engine eine maschinelle Übersetzung vorgeschlagen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt revolutionizes translation by replacing post-editing with interactive and adaptive machine assistance, keeping the human in the loop.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Vielmehr setzt Lilt auf einen innovativen Übersetzungsansatz, bei dem das Post-Editing ersetzt wird durch einen Prozess, in dem Übersetzer*innen durch eine interaktive und adaptive maschinelle Übersetzung unterstützt werden. Dadurch sind sie an jeder Stelle in den Übersetzungsprozess involviert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Adding QA rules from the Editor</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>QA-Regeln für ein TM dem Editor hinzufügen</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>No</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nein</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Find and Replace (Ctrl + H): Search for text in all typing areas of the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Suchen und ersetzen (STRG + H): Alle Eingabefelder des Dokuments werden nach dem gewünschten Text durchsucht.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>QA rules are tied to specific Lilt Memories.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>QA-Regeln müssen für jedes Lilt Memory gesondert festgelegt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135114Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>To create a new Lilt Memories through the Memories tab, click the Create New Memory button in the upper-righty.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Um ein neues Lilt Memory in der Registerkarte Memories zu erstellen, klicken Sie oben rechts auf die Schaltfläche Neues Memory.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Concordance (Ctrl + Alt + C): Opens the Concordance sidebar.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Konkordanzsuche (STRG + ALT + C): Die Konkordanzsuche in der Randleiste wird geöffnet.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Preview mode: Toggles between segment edit mode and preview mode.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Vorschaumodus: Mit dieser Funktion können Sie zwischen dem Vorschau- und dem Bearbeitungsmodus wechseln.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Navigate segments by typing in the number of a segment into the text box.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Segmentnummer, über die Sie auch zu bestimmten Segmenten navigieren können</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>From the Manage QA page, type in the Search bar to actively filter which rules are displayed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Auf der Seite QA verwalten können Sie mit der Suchleiste filtern, welche QA-Regeln angezeigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This article discusses the features available in both modes.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In diesem Artikel werden die Funktionen behandelt, die in beiden Modi verfügbar sind.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Keep sidebar open: This option toggles whether the sidebar is kept open or not.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Randleiste aufgeklappt lassen: Ist diese Funktion aktiviert, bleibt die Randleiste aufgeklappt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Alternatives for the next word to insert may appear in this area as ghost-words.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Vorschläge für das nächste Wort werden in diesem Bereich lila hervorgehoben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The TM entry uses hare, while the source uses hares.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Im TM-Eintrag wurde hare verwendet, im Ausgangstext hingegen hares.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The File t ab provides several actions to help manage documents.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Über die Registerkarte Datei stehen verschiedene Funktionen für die Dokument(en)verwaltung zur Verfügung.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Line breaks can also be copied from source text to target text by using the Copy source to target option in the segment editing tools.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Mit der Option „Ausgangstext in Zieltextsegment kopieren“ können auch Zeilenumbrüche aus dem Ausgangstext in den Zieltext eingefügt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Move tag one character right (.):  Move the selected tag one character to the right.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tag um ein Zeichen nach rechts verschieben (.): Mit dieser Funktion wird das ausgewählte Tag um ein Zeichen nach rechts verschoben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>For more detailed information about tags, see the article on Tags and Formatting.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Weitere Informationen über Tags finden Sie im Artikel Tags und Formatierung.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Sign in</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Anmelden</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Unlock document translation: If the document has been locked for translation, the project manager can use this option to unlock the document in translation mode so it can be worked on again by translators.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Dokument zur Übersetzung freigeben: Falls das Dokument für die Übersetzung gesperrt wurde, können Projektmanager*innen es über diese Funktion erneut zur Bearbeitung im Übersetzungmodus freigeben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Adaptation refers to the ability of Lilt’s translation models to change in response to confirmed segments.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Adaptivität bezieht sich auf die Funktion, dass künftige Übersetzungsvorschläge an die bestätigten Segmente angepasst werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>For users with access to the organization’s Lilt Memories (which by default is Managers and Administrators), QA rules can be added and managed from Memories &gt; Manage QA.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nutzer*innen mit Zugriff auf die Lilt Memories der Organisation (mit den Rollen „Manager“ und „Administrator“) können QA-Regeln in der Registerkarte Memories auf der Seite QA verwalten hinzufügen und verwalten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Supported Languages</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Unterstützte Sprachen</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Reviewed/unreviewed</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>lektoriert/Nicht lektoriert</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>It includes options to require the whole word to match, require the case to match, and to search through the entire Project instead of just the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zusätzliche Einstellungen ermöglichen hierbei die Suche nach exakten Übereinstimmungen, die Berücksichtigung von Groß- und Kleinschreibung und die Durchsuchung des gesamten Projekts anstelle des aktuellen Dokuments.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt has two types of MT models:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bei Lilt werden zwei Arten von MÜ-Engines genutzt:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Each of these filter sections can only have one option selected.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Es kann immer nur eine Option ausgewählt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>See an estimate on how much time it will take to finish translating the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Verbleibende Arbeitszeit, die voraussichtlich noch für die Übersetzung benötigt wird</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If the Organization Setting for Case-sensitive matching is enabled, TM matching takes into account any differences in letter casing; otherwise, casing is ignored.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn in der Registerkarte „Organization“ unter „Einstellungen“ die Groß- und Kleinschreibung aktiviert ist, werden beim TM-Abgleich jegliche Unterschiede in Groß- und Kleinschreibung berücksichtigt, die ansonsten ignoriert würden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Select previous tag (Ctrl + [): Navigate backward through tags.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Vorheriges Tag auswählen (STRG + [): Über diese Funktion können Sie rückwärts durch die Tags navigieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T131016Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Undo (shortcut Ctrl + Z): Undo the last edits that were made in the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Rückgängig (Tastenkombination STRG + Z): Die letzte Aktion wird rückgängig gemacht.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Highlight to change case (Shift + F3):  Changes the case of the currently selected section of taget text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Markieren zur Änderung der Groß- und Kleinschreibung (UMSCHALT + F3): Die Groß- und Kleinschreibung des markierten Abschnitts im Zieltext wird geändert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Options only available in review mode:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nur im Lektoratsmodus verfügbare Optionen:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125836Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Adaptive MT model: When a new Project is created in Lilt, a unique adaptive MT model is also created and used exclusively for that Project.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die adaptive MÜ-Engine: Mit jedem neuen Projekt wird in Lilt auch eine separate adaptive MÜ-Engine erstellt, welches einzig und allein für dieses Projekt genutzt wird.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Copy source to target (Ctrl + I): Inserts the source text into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ausgangs- in Zielsegment kopieren (STRG + I): Das Ausgangssegment wird in das Zielsegment kopiert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The sidebar</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Randleiste</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124835Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>As linguists complete work and accept, amend, or reject the provided translation suggestions, the system learns from that feedback in real-time to provide more accurate translation suggestions over time.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Übersetzer*innen Übersetzungsvorschläge bestätigen, bearbeiten oder ablehnen und das jeweilige Segment komplett selbst übersetzen, dann lernt das System in Echtzeit von diesem Feedback und unterbreitet so mit der Zeit bessere Übersetzungsvorschläge.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T134835Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>If you want to back up or utilize a Lilt Memory outside of Lilt, click the Export Memory as TMX button on the left sidebar.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie ein TM außerhalb von Lilt sichern oder verwenden möchten, klicken Sie in der linken Randleiste auf die Schaltfläche Exportieren als TMX.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The source highlighting tool functions as a way to quickly access the terminology tools.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Über den Schnellzugriff im Ausgangstext können Sie ganz unkompliziert auf die Kopier- und Suchfunktionen zugreifen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T122217Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The Comments button is displayed on the right side of each segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Schaltfläche für die Kommentarfunktion befindet sich auf der rechten Seite des jeweiligen Segments.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Add new term (Alt + A): Opens a popup where you can add a new translation entry to the associated Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Neuen Term hinzufügen (Alt + A): Mit dieser Option wird ein neues Popup geöffnet, über das dem Lilt Memory ein neuer Eintrag hinzugefügt werden kann.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If there are multiple translators, the comments space can be used for collaborative discussion as well.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Arbeiten mehrere Personen an der Übersetzung, kann der Kommentarbereich auch zum Austausch und für Feedback genutzt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Segment Context: Segment context provides translation information about the segment selected.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Segmentkontextsuche: Über diese Suche werden Ihnen in der Randleiste Informationen zur Übersetzung des ausgewählten Segments angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Creating a Lilt Memory</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Erstellen eines Lilt Memories</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124913Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Exact and ICE matches are automatically populated into the target text area (rather than being provided as tanslation suggestions).</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>100-%-Matches und ICE-Matches werden nicht nur als Übersetzungsvorschlag bereitgestellt, sondern auch automatisch in das Zielsegment eingefügt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T122239Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Insert tab</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Registerkarte „Einfügen“</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>ICE Match (101%): The selected segment has the exact same words as a TM entry. In addition, the segments before and after the selected segment are also identical to a set of three consecutive segments in the TM.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>ICE-Match (101%): Ein TM-Eintrag wird als ICE-Match bezeichnet, wenn er wortwörtlich mit dem ausgewählten Segment übereinstimmt und zusätzlich die Einträge vor und nach dem TM-Eintrag mit den Segmenten vor und nach dem ausgewählten Segment identisch sind. Es müssen also drei TM-Einträge mit drei aufeinanderfolgenden Segmenten im Dokument identisch sein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130212Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt's MT models are interactive because translation suggestions are provided directly in the CAT Editor for each segment and update as the linguist types.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese MÜ-Engines werden als interaktive Engines bezeichnet, da die Übersetzungsvorschläge für jedes Segment direkt im CAT-Editor bereitgestellt und in Echtzeit aktualisiert werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Deleting a Lilt Memory</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ein Lilt Memory löschen</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>About Lilt</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Über Lilt</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>When you open the Editor, you will find your source text divided into numbered segments.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Mit dem Öffnen des Editors wird der Ausgangstext in nummerierte Segmente eingeteilt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Line break (Alt + Enter): Adds a line break on the currently selected line in the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zeilenumbruch ALT + EINGABE: Mit dieser Option wird ein Zeilenumbruch in der ausgewählten Zeile im Zieltextfeld eingefügt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Let's look at an example:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Dies wird an folgendem Beispiel verdeutlicht:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Split view: With split view disabled (the default setting), target text is displayed beneath the source text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Geteilte Ansicht: Ist die geteilte Ansicht deaktiviert (Standardeinstellung), wird der Zieltext unter dem Ausgangstext angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The header</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Kopfzeile</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The Manage Resources page on the left sidebar lets you Upload Existing Resources to the selected Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie ein Memory ausgewählt haben, können Sie in der linken Randleiste auf der Seite Ressourcen verwalten TM- und TB-Daten importieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Learn more about comments in the Comments article.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Weitere Informationen zur Kommentarfunktion finden Sie im Artikel „Kommentare“.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Why Lilt?</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Warum Lilt?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Settings tab</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Registerkarte „Einstellungen“</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Previous segment (Ctrl + Up Arrow):  Allows you to navigate up through the document, segment by segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Vorheriges Segment (STRG + NACH-OBEN-TASTE): Mit dieser Option können Sie Segment für Segment rückwärts durch das Dokument navigieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130420Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>When a translator confirms a segment, Lilt processes the translation unit as correct and uses it as an example to learn from when providing future translation suggestions.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Übersetzer*innen ein Segment bestätigen, verzeichnet Lilt die Übersetzungseinheit als korrekt und nutzt diese Information als Trainingsbeispiel für die MÜ-Engine, damit diese künftig bessere Übersetzungsvorschläge bereitstellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130438Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Translation Memory (one or many): A collection of TM translation units.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Translation Memory (eins oder mehrere): Eine Sammlung von TM-Übersetzungseinheiten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This is useful if a segment does not have to be translated for whatever reason.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese Funktion ist nützlich, wenn ein Segment aus bestimmten Gründen nicht übersetzt werden muss.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Add comment (Ctrl + Alt + M): Add a comment to the currently selected segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Kommentar hinzufügen (STRG + Alt + M): Dem ausgewählten Segment wird ein Kommentar hinzugefügt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>These are used to determine how the adjacent characters are grouped in respect to text direction.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Durch diese Funktion wird die Schreibrichtung festgelegt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Comments</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Kommentare</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Managing your Lilt Memories is an important part of localization.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Verwaltung von Memories ist ein wichtiger Bestandteil des Übersetzungsprozesses in Lilt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Match percent</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Matchwert (in Prozent)</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125342Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Once created, Default Lilt Memories cannot be deleted and will have the display name of Default, regardless of what the name is set to in under Memory Settings.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gekennzeichnet werden sie neben dem Sprachpaar mit dem Etikett Standard, unabhängig davon, wie ihr Name in den Speichereinstellungen lautet. Standard-Memories können nicht gelöscht werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>To add a new QA rule, type the rule into the text box at the bottom and click the check mark.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Um eine neue QA-Regel hinzuzufügen, geben Sie den Ausdruck unten in das Eingabefeld unter „Ignorierte Regel“ ein und klicken Sie rechts auf das Häkchen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The diff display can be brought back by refreshing the page.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die TM-Unterschiede können durch Aktualisierung der Seite wieder eingeblendet werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Interactivity refers to the process of integrating MT suggestions into the translation workflow.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Der Begriff „interaktiv“ beschreibt die Art und Weise, wie die maschinellen Übersetzungsvorschläge in den Übersetzungsprozess eingebunden werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>MT Suggestion area: Displays suggested translations.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Feld für maschinelle Übersetzungsvorschläge oder TM-Matches: In diesem Feld werden die maschinell erstellten Übersetzungsvorschläge oder Matches aus dem Translation Memory angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135329Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The Edit tab contains a list of commonly used actions to help speed up your work within the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Registerkarte „Bearbeiten“ enthält eine Liste von nützlichen Funktionen, mit denen die Arbeit im Editor effizienter gestaltet wird.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Was this article helpful?</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>War dieser Artikel hilfreich?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Source: The source language of the Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ausgangssprache: Hier können Sie die Ausgangssprache des Lilt Memories auswählen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>TM entry: The hare and the tortoise &gt; La liebre y la tortuga</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>TM-Eintrag: The hare and the tortoise &gt; Der Hase und die Schildkröte</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The Lilt Platform was built specifically with the translator experience in mind.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Lilt Plattform wurde speziell nach den Anforderungen der Übersetzungspraxis entwickelt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This will open a popup box with the following fields to fill out in order to create your new Lilt Memory:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Dadurch wird ein Dialogfenster geöffnet, dessen Felder zur Erstellung des neuen Lilt Memories ausgefüllt werden müssen:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Move tag one character left (,): Move the selected tag one character to the left.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tag um ein Zeichen nach links verschieben (,): Mit dieser Funktion wird das ausgewählte Tag um ein Zeichen nach links verschoben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135318Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The Insert tab has a range of tools for interacting with text in the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Registerkarte „Einfügen“ finden Sie eine Reihe von ‏Optionen zur Interaktion mit dem Text im Texteditor.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>QA checks: Project managers can run two types of QA checks from the File menu: full QA checks and linguistic batch QA checks.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Qualitätsprüfung: Projektmanager*innen stehen in der Registerkarte Datei zwei Arten von Qualitätsprüfungen zur Auswahl: die vollständige Qualitätsprüfung (Full QA Check) und die Qualitätsprüfung im Batch (Batch QA Check).</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If a match does not exist, the interactive MT output appears.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ist kein TM-Match vorhanden, wird stattdessen der interaktive MÜ-Vorschlag angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The reviewed/unreviewed status of a TM entry does not affect match prioritization.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Der Status der Einträge (lektoriert/nicht lektoriert) hat keinen Einfluss auf die Priorisierung der Matches.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Search</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Suche</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Insert right-to-left mark (Ctrl + K): Inserts an invisible right-to-left mark character into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Rechts-nach-links-Schreibrichtung einfügen + K: Eine ausgeblendete Rechts-nach-links-Schreibrichtung wird in das Zieltextsegment eingefügt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This filter section compounds with the status filter section.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Filter in diesem Abschnitt können mit den Statusfiltern kombiniert werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Additional filter section: Filter segments by additional content: notes, errors, or tags.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zusätzliche Filter: In diesem Abschnitt kann die Ansicht nach Segmenten mit zusätzlichen Informationen (Notizen, Fehlern oder Tags) gefiltert werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230213T113459Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt's CAT Tool leverages our interactive and adaptive neural machine translation model to provide predicted translations right within the interface.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Das Lilt CAT-Tool verfügt über unsere interaktive und adaptive neuronale MÜ-Engine und zeigt Übersetzungsvorschläge direkt in der Benutzeroberfläche an.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Project target tags (Ctrl + Alt + N): Projects target tags onto the segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tags in Zielsegment kopieren (STRG + Alt + N): Tags werden aus dem Ausgangssegment in das Zielsegment kopiert, sofern dieses bereits Text enthält. Die Position der Tags wird dabei automatisch bestimmt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt provides both translation services as well as a powerful platform for in-house translation for commercial and government enterprises alike.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Neben Übersetzungsdienstleistungen stellt Lilt eine leistungsstarke Plattform bereit, mit der Nutzer*innen ihre Inhalte selbst übersetzen können.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Select next tag (Ctrl + ]): Navigate forward through tags.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nächstes Tag auswählen STRG + ]: Mit dieser Funktion können Sie vorwärts durch die Tags navigieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>See the Segment State Indicators article for additional information.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Weitere Informationen finden Sie im Artikel Indikatoren für den Segmentstatus.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Knowledge Base Dictionary</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wissensdatenbank Wörterbuch</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Use legacy editor: Clicking this option swaps your Editor back to the previous version of the Editor (version 2) for the current user session.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alten Editor verwenden: Mit dieser Funktion kann für die Dauer der laufenden Sitzung zur vorherigen Version (Version 2) des Editors gewechselt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135351Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>For this reason, Lilt provides tools for adding and editing Lilt Memories directly within the application through the Memories tab in the upper-right.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Aus diesem Grund werden bei Lilt rechts in der Kopfzeile über die Registerkarte „Memories“ Funktionen zum Hinzufügen und Bearbeiten von Memories zur Verfügung gestellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Using the mouse, highlight the source text you're interested, then right-click on the text to open the tool options:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Markieren Sie mit der Maus den gewünschten Text im Ausgangssegment und klicken Sie dann mit der rechten Maustaste, um auf die folgenden Funktionen zuzugreifen: Wenn Sie mit der Maus den gewünschten Text im Ausgangssegment markieren, werden Ihnen folgende Funktionen angezeigt:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Auto-scroll editor: With auto-scroll on, when a segment is confirmed, the Editor automatically places you into editing the next segment and the Editor scrolls to keep the selected segment on the page.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Automatischer Bildlauf: Ist diese Funktion aktiviert, wird nach Bestätigung eines Segments das nächste unbestätigte Segment geöffnet und dieses zentriert auf dem Bildschirm angeordnet.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>When a segment is active in the Editor, the associated Lilt Memory is checked for TM entries with similar phrases.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Für jedes geöffnete Segment wird das dem Projekt zugewiesene Lilt Memory nach Übereinstimmungen durchsucht.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>For more information on this, see the CAT Guide for Project Managers.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Weitere Informationen hierzu finden Sie im CAT-Leitfaden für Projektmanager*innen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135420Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The View tab allows you to set options for how segments are displayed in the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Registerkarte „Ansicht“ können Darstellungsoptionen für die Segmente ausgewählt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Click the identical results dropdown to display the following metadata for each identical TM entry:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Klicken Sie auf identische Einträge in einem Dropdownmenü für jeden identischen TM-Eintrag folgende Metadaten bereitgestellt:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T122846Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Edit tab</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Registerkarte „Bearbeiten“</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Leaving and returning to the Editor will revert to the most current Editor version.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie den Editor schließen und dann neu öffnen, wird der Editor auf die neueste Version zurückgesetzt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Note that whenever a Lilt Memory is created that uses a new language pair, Lilt also creates a Default Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bitte beachten Sie: Immer wenn Sie ein Lilt Memory mit einem neuen Sprachpaar erstellen, wird in Lilt zusätzlich ein Standard-Memory für dieses Sprachpaar erstellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Your translators are guaranteed to always be working with the most up-to-date version of the Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>So wird sichergestellt, dass Übersetzer*innen immer mit der neusten Version des Memories arbeiten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125023Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>For example, the translation of a particular segment may be utilized when the MT provides translation suggestions for nearby segments; however, the MT may fall back to its original translation suggestions for segments farther away in the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn die MÜ-Engine beispielsweise einen Übersetzungsvorschlag für ein bestimmtes Segment vorschlägt, werden dabei bestätigte Übersetzungen aus vorherigen Segmenten berücksichtigt. Liegen diese Segmente jedoch zu weit zurück, kann dieser Kontext bei der maschinellen Übersetzung des aktuellen Segments nicht mehr berücksichtigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Source text (ST)</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ausgangstext (AT)</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Copy to target:  Copies the highlighted source words into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In Zielsegment kopieren: Mit dieser Funktion werden die markierten Wörter aus dem Ausgangs- in das Zielsegment kopiert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Getting Started</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Erste Schritte</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Any words in the TM suggestion that are missing from the source are underlined.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alle Wörter aus TM-Vorschlägen, die im Ausgangstext nicht vorkommen, sind unterstrichen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Managing QA rules</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>QA-Regeln verwalten</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The header bar has a range of options available for managing and customizing your experience with the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Kopfzeile finden Sie eine Reihe von Einstellungen zur Verwaltung und Anpassung des Editors.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Target: The target language of the Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zielsprache: Hier können Sie die Zielsprache des Lilt Memories auswählen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Once resources are added to the Lilt Memory, the contained translations will be populated as suggestions within the Editor for any Projects utilizing this Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Sobald die Dateien in das Memory importiert wurden, werden die Einträge im Editor für alle Projekte vorgeschlagen, in die dieses Memory eingebunden ist.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>An active source segment has several components:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ein geöffnetes Segment besteht aus mehreren Komponenten:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Clicking the Delete Memory button on a Lilt Memory card opens a popup to confirm that you want to permanently delete the Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie auf der Karte eines Lilt Memories auf das Pfeil-nach-unten-Symbol und dann auf die Schaltfläche Löschen klicken, wird ein Dialogfenster geöffnet. Dort müssen Sie bestätigen, dass Sie das Memory endgültig löschen möchten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135455Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The find and replace tool is also accessible via the Edit tab.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die Funktion „Suchen und Ersetzen“ finden Sie auch in der Registerkarte „Bearbeiten“.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Yes</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ja</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The CAT Editor (computer-aided translation) is the core of the Lilt platform and where translation happens.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Der CAT-Editor (Computer-Aided Translation) ist das Herzstück der Lilt Platform. Dort findet der Übersetzungprozess statt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Source highlighting tool</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Schnellzugriff</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Insert left-to-right mark (Ctrl + L): Inserts an invisible left-to-right mark character into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Links-nach-rechts-Schreibrichtung einfügen (STRG + L): Eine ausgeblendete Links-nach-Rechts-Schreibrichtung wird in das Zieltextsegment eingefügt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Show source tags: Toggles whether tags in the source text are displayed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tags in Ausgangstext anzeigen: Über diese Funktion können Tags im Ausgangstext ein- und ausgeblendet werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>These can be useful in certain situations, as the non-breaking spaces do not get erased in document formats that ignore extra spaces, such as HTML.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Geschützte Leerzeichen können nicht gelöscht werden und sind damit hilfreich in Dateiformaten wie HTML, in denen zusätzlich Leerzeichen ignoriert werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Release Notes</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Freigabehinweise</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Status filter section: Filter segments by status: all segments, confirmed, unconfirmed, unreviewed, or reviewed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Filtern nach Status: In diesem Abschnitt kann die Ansicht nach dem Status der Segmente gefiltert werden (alle Segmente, bestätigt, nicht bestätigt, nicht lektoriert, lektoriert).</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>In this case, the TM diff displays the following: The harehares and the tortoise.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In diesem Beispiel wird der folgende Unterschied angezeigt: The harehares and the tortoise.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Fuzzy Match (&gt;75%): The segment has similar words to a TM entry, but there are significant differences.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Fuzzy Match (&gt;75%): Ein TM-Eintrag beinhaltet teilweise Wörter aus dem ausgewählten Segment, stimmt aber nicht wortwörtlich mit ihm überein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt’s Editor provides a wealth of functions that make the entire translation process more efficient.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Dieser Editor bietet eine Fülle von Funktionen, mit denen der gesamten Übersetzungsprozess effizienter gestaltet werden kann.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Segment number</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Segmentnummer</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135435Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt Memories can be created at any time under the Memories tab or during Job Creation.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt Memories können jederzeit in der Registerkarte „Memories“ oder anfangs bei der Erstellung von Jobs erstellt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Unaccept all reviewed (Ctrl + Shift + A): Unaccept segments on a page by page basis.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alle lektorierten Segmente ablehnen (STRG + UMSCHALT + A): Alle lektorierten Segmente auf einer Seite werden abgelehnt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>All Memories: Displays all Lilt Memories you are the owner of, in addition to Lilt Memories for Projects where you are the manager.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Alle Memories: Auf der Seite „Alle Memories“ werden ebenfalls alle Lilt Memories angezeigt, die Sie erstellt haben. Zusätzlich werden alle Memories aus Projekten angezeigt, in denen Sie Projektmanager*in sind.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Translation Memories (TM) entries are used to provide translation suggestions to linguists working in the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Anhand von Translation Memories (TM) werden Übersetzungsvorschläge im Editor bereitgestellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124248Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>After filling in the fields, click the Create button to create the Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie alle Felder ausgefüllt haben, klicken Sie auf die Schaltfläche „Erstellen“.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>View how many segments have been confirmed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Anzahl der bestätigen Segmente</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Full suggestion Shift + Enter: Insert the full suggested sentence into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Übersetzungsvorschlag (Satz): UMSCHALT + EINGABE: Fügt den von der MÜ-Engine vorgeschlagene Satz in das Zieltextfeld ein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124212Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Suggested phrase (Enter): Insert the suggested word into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Übersetzungsvorschlag (EINGABE): Fügt das von der MÜ-Engine vorgeschlagene Wort in das Zieltextfeld ein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Split view helps increase proofreading speed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Durch die geteilte Ansicht kann das Lektorat beschleunigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Download: Use this option to download the translated document in one of three formats:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Download: Mit dieser Funktion können Sie das übersetzte Dokument in einem von drei Formaten herunterladen:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The context of a segment is also important when referring to adaptation speed.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Der Kontext des Segments spielt bei der Anpassungsgeschwindigkeit eine wichtige Rolle.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>timestamp of when the entry was last updated</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Datum, an dem der Eintrag zuletzt aktualisiert wurde</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>attributed user</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Person, die den TM-Eintrag bearbeitet hat</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Fuzzy matches are shown along with a display of the differences between the TM entry and the source.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bei Fuzzy Matches werden die Unterschiede zwischen TM-Eintrag und dem geöffneten Ausgangssegment angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>You can click on any of the suggested words to add that word to the typing area.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Sie können jedes der vorgeschlagenen Wörter anklicken, um es dem Eingabefeld hinzuzufügen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125712Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Adaptive MT model: Whether to enable Lilt's Adaptive Memory for MT suggestions.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Adaptive MÜ-Engine: Hier können Sie einstellen, ob Ihr Lilt Memory zum Training der adaptiven MÜ-Engine verwendet werden soll.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Non-breaking spaces (Ctrl + Shift + Space) : Insert a non-breaking space into the target text field.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Geschützte Leerzeichen (STRG + UMSCHALT + LEER): Fügt ein geschütztes Leerzeichen in das Zieltextfeld ein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Click on the Lilt Memory's name or the Edit Memory button to open up the Lilt Memory, where you can edit all the contents and settings of the selected Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Um das Lilt Memory zu bearbeiten, klicken Sie auf seine Karte oder auf die Schaltfläche Memory bearbeiten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The Editor has two modes: Translate and Review. The two modes are largely the same.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Der CAT-Editor verfügt über zwei weitgehend identische Modi: den Übersetzungsmodus und Lektoratsmodus.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Tags tab</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Registerkarte „Tags“</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Managing resources</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Übersetzungsressourcen verwalten</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Editing a Lilt Memory</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ein Lilt Memory bearbeiten</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135508Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Concordance: The Concordance tab gives in-context examples of how a word of phrase is used in the target language.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Konkordanzsuche: Über die Registerkarte „Konkordanzsuche“ können Sie im TM Beispiele zum Gebrauch von Wörtern, Satzteilen oder Sätzen in der Ausgangs- und Zielsprache nachschlagen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>TM difference display</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Unterschiede von TM und Ausgangstext</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Find and Replace: The find and replace tool allows you to search for text in all typing areas of the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Suchen und Ersetzen: Über diese Funktion können Sie alle Ausgangs- und Zielsegmente des Dokuments durchsuchen und Text in Zielsegmenten ersetzen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>QA rules are a list of phrases that the QA check ignores when searching for QA issues.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bei QA-Regeln handelt es sich um eine Liste mit Ausdrücken, die bei der Qualitätssicherung (Quality Assurance, QA) nicht berücksichtigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T123922Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt Engine</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Engine zur maschinellen Übersetzung von Lilt</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Exact Match (100%): The selected segment has the exact same words as a TM entry.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>100-%-Match: Ein TM-Eintrag stimmt wortwörtlich mit dem ausgewählten Segment überein.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>View how many words have been translated out of the total number of words in the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Anzahl der bereits übersetzten Wörter und Gesamtwortzahl</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lookup in Concordance: Opens the Concordance sidebar, puts the selected source text into the search field, and searches for the text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Konkordanzsuche: Über diese Funktion wird die Randleiste geöffnet und automatisch eine Konkordanzsuche des ausgewählten Textes durchgeführt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Memory name: The name of the Lilt Memory.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Name des Memories: Hier können Sie den Namen des Lilt Memories eingeben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230213T113740Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>What is Interactive, Adaptive MT?</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Was ist interaktive adaptive maschinelle Übersetzung?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If the language pair does not have MT support, no MT suggestion will be shown.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wird ein Sprachpaar nicht von der MÜ-Engine unterstützt, wird kein maschineller Übersetzungsvorschlag bereitgestellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Option 3: XLIFF format</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Option 3: XLIFF-Format</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>TM matches above 75% are shown first.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ist ein TM-Matches über 75% vorhanden, wird dieses angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Show invisible characters: When enabled, displays characters that are normally invisible (such as spaces, tabs, right-to-left marks, and left-to-right marks) in both the source and target text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ausgeblendete Zeichen anzeigen: Ist diese Funktion aktiviert, werden in Ausgangs- und in Zieltext Zeichen angezeigt, die normalerweise ausgeblendet sind (Leerzeichen, Tabstopps, Rechts-nach-links-Schreibrichtung und Links-nach-rechts-Schreibrichtung).</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt organizes translation data into Lilt Memories.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In Lilt werden die verschiedenen Übersetzungsressourcen in Lilt Memories zusammengefasst.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The Tag tab provides tools for manipulating tags within the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Auf der Registerkarte „Tags“ werden Funktionen zur Bearbeitung von Tags im Editor zur Verfügung gestellt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The footer bar allows you to:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Fußzeile finden Sie folgende Informationen:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Note: The order of TM entries displayed in the Segment context pane is not the same as the TM match order.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Hinweis: Die Reihenfolge der TM-Einträge im Bereich Segmentkontextsuche entspricht nicht der Reihenfolge der TM-Matches.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>What is Lilt?</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Was ist Lilt?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lookup in Segment context: Opens the Segment Context sidebar, puts the selected source text into the search field, and searches for the text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Segmentkontextsuche: Über diese Funktion wird die Randleiste geöffnet und automatisch eine Segmentkontextsuche des ausgewählten Textes durchgeführt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Includes the option to require the whole word to match, require the case to match, and to search through the entire Project instead of just the document.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zusätzliche Einstellungen ermöglich hierbei die Suche nach exakten Übereinstimmungen, die Berücksichtigung von Groß- und Kleinschreibung und die Durchsuchung des gesamten Projekts anstelle des Dokuments.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The checkmark in the bottom-right corner of a segment lets you confirm (for Translate mode) or accept (for Review mode) the segment to mark it as complete.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Über den Haken in der unteren rechten Ecke eines Segments können Sie das Segment bestätigen (Übersetzungsmodus) oder akzeptieren (Lektoratsmodus), um es als erledigt zu markieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T122400Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Each language pair has its own baseline model.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Für jedes Sprachpaar gibt es eine eigene Baseline-Engine.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>The first two sections (split with a horizontal divider) filter what segments are displayed in the Editor by a variety of parameters.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In den ersten beiden Abschnitten (getrennt durch einen horizontalen Balken) wird anhand einer Reihe von Parametern gefiltert, welche Segmente im Editor angezeigt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Select matching tags (Alt + Shift): Toggle between which tag is selected in a matching pair of tags.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Zwischen öffnendem und schließendem Tag wechseln (Alt + Shift): Mit dieser Funktion können Sie in einem Tag-Paar zwischen öffnendem und schließendem Tag wechseln.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Next segment (Ctrl + Down Arrow): Allows you to navigate down through the document, segment by segment.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nächstes Segment (STRG + NACH-UNTEN-TASTE): Mit dieser Option können Sie Segment für Segment vorwärts durch das Dokument navigieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>You can learn more about suggestions in the Translation Memory Matching article.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Weitere Informationen zu TM-Matches finden Sie im Artikel Translation Memory Matching.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If a filter is set for this section and you want to remove the filter, click on the filter to deselect it.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ist in diesen Abschnitt ein Filter ausgewählt, klicken Sie erneut auf den Filter, um ihn zu deaktivieren.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Adaptation speed differs across Lilt Memories.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wie schnell eine MÜ-Engine als Teil eines Lilt-Memorys lernt, ist abhängig vom jeweiligen Lilt-Memory.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt's MT models are adaptive because as linguists translate, the MT models learn from the linguist to provide better translation suggestions in the future.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die MÜ-Engines von Lilt verfügen außerdem über adaptive Eigenschaften. Sie lernen durch die Bestätigung, Bearbeitung und komplette Neuübersetzung eines Segments und liefern so mit der Zeit bessere Übersetzungsvorschläge.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130232Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>When translating in Lilt, the MT model intelligently suggests translations of the source segment that can be utilized during human translation.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bei der Übersetzung in Lilt liefert die MÜ-Engine zu einem Ausgangssegment intelligente Übersetzungsvorschläge, welche die Übersetzer*innen dann übernehmen können.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Move tag one word right (/): Move the selected tag one word to the right.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Tag um ein Wort nach rechts verschieben /): Mit dieser Funktion wird das ausgewählte Tag um ein Wort nach rechts verschoben.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125228Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Target text (TT) typing area: You can type in your translation manually or insert a MT suggestion from the suggestion area.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Eingabefeld für den Zieltext (ZT): Sie können Ihre Übersetzung manuell eingeben oder der maschinell erstellte Übersetzungsvorschlag unterhalb des Eingabefelds vollständig oder teilweise übernehmen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Not what you’re looking for?Submit a request</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nicht, wonach Sie gesucht haben?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>total words within the Lilt Memory</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gesamtwortzahl innerhalb des Lilt Memories</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Translation Memory Suggestions</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Übersetzungsvorschläge aus Translation Memories</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T125811Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Adaptive models are trained in real-time whenever a segment is confirmed in the Project.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Adaptive Engines werden in Echtzeit trainiert, sobald ein Segment im Projekt bestätigt wird.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Unlike most Language Service Providers (LSPs), Lilt does not use Machine Translation Post-Editing (MTPE), a process where Machine Translation (MT) is used to pre-translate texts for later human correction.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Im Gegensatz zu den meisten Sprachdienstleistern werden bei Lilt Dokumente nicht vollständig maschinell vorübersetzt und im Rahmen des Post-Editings korrigiert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T124119Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>In some cases, adaptation will pick up on updated terminology in the very next segment. In other cases, it may take significantly longer.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Manchmal kann z. B. neue Terminologie von der Engine sofort im nächsten Übersetzungsvorschlag abgerufen werden. In anderen Fällen dauert es deutlich länger.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Segment source text: The hares and the tortoise</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Ausgangssegment: The hares and the tortoise</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Knowledge Base</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wissensdatenbank</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt Memory languages</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Sprachen des Lilt Memories</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Select next word (Shift + Tab): Select the next suggested word from the suggestion area below the typing text.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Nächstes Wort auswählen (UMSCHALT + TAB): Das nächste Wort aus dem maschinell erstellten Übersetzungsvorschlag unterhalb des Eingabefelds wird ausgewählt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>At the far right of the typing area, there is a number display for how many characters are inside the typing area.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Rechts im Eingabefeld wird angezeigt, wieviele Zeichen der Zieltext aktuell enthält.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230213T113748Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>What is Interactive, Adaptive MT?</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Was ist interaktive, adaptive maschinelle Übersetzung?</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>From inside the Memory view, you can access all the Memory Settings and contents of the selected Lilt Memory to Manage Your Termbases.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Memory-Ansicht können Sie auf alle Speichersteinstellungen und Inhalte zugreifen. So können Sie u. a. Ihre Terminologiedatenbanken verwalten.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Termbase (zero or many): A collection of source/target TB segments.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Termdatenbank (TB) (keine oder mehrere): Eine Sammlung von Terminologieeinträgen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Segment editor</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Segment-Editor</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T122319Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Each tab of the header is described in the sections below.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Die einzelnen Registerkarten der Kopfzeile werden in den folgenden Abschnitten erläutert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt Memories are sorted by their updated dates, with the most recently updated Lilt Memories appearing at the top of the list.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Lilt Memories werden nach ihrem Aktualisierungsdatum sortiert, wobei die zuletzt aktualisierten Lilt Memories ganz oben in der Liste aufgeführt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T130905Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>Lilt's cloud-based CAT Editor provides linguists with all the functionality needed to enable skilled translators to do the best work of their careers quickly, accurately, and efficiently.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In dem cloud-basierten CAT-Editor von Lilt stehen Übersetzer*innen alle wichtigen Funktionen zur Verfügung, mit denen sie in kürzester Zeit hochwertige Übersetzungen anfertigen können.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>This article provides an overview for each of the CAT Editor components:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In diesem Artikel werden die einzelnen Funktionen und Komponenten des CAT-Editors erläutert:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If you are the only translator for a given document, you can utilize the option to add notes, make to-do lists, and create reminders.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Wenn Sie das Dokument alleine übersetzen, können Sie mit dieser Funktion Notizen hinzufügen und Aufgabenlisten oder Erinnerungen erstellen.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230212T135526Z" changeid="INTRAVIS">
+<tuv xml:lang="en-US">
+<seg>The Settings tab contains a variety of ways for you to customize the behavior of the Editor to suit your needs.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>In der Registerkarte „Einstellungen“ finden Sie verschiedene Funktionen zur individuellen Anpassung des Editors.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>TM suggestion order</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Arten von TM-Matches</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Submit a request</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Anfrage senden</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>If there are multiple suggestions, they can be viewed in the Segment Context pane on the right side of the Editor.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Gibt es mehrere TM-Vorschläge für ein Segment, werden diese in der Randleiste rechts im Editor im Segmentkontextsuche angezeigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>By default, this is enabled.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Diese Funktion ist standardmäßig aktiviert.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Lilt uses Machine Translation (MT) models to provide translation suggestions.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Bei Lilt kommen Engines zur maschinellen Übersetzung (MÜ) zum Einsatz, mit denen automatisch Übersetzungsvorschläge bereitgestellt werden.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>While the Segment context pane sorts by reviewed/unreviewed status, TM matching ignores reviewed/unreviewed status.</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Im Bereich Segmentkontextsuche werden TM-Einträge unter anderem nach ihrem Status lektoriert/nicht lektoriert sortiert, beim TM-Matching hingegen wird dieser Status nicht berücksichtigt.</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>There are three sidebar buttons on the right side of the Editor that are used to open and close the sidebar:</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Auf der rechten Seite des Editors befinden sich drei Schaltflächen, mit denen die Randleiste geöffnet und geschlossen werden kann:</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>View tab</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>Registerkarte „Ansicht“</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20230211T143429Z" changedate="20230211T143429Z">
+<tuv xml:lang="en-US">
+<seg>Adding and removing QA rules in a Lilt Memory</seg>
+</tuv>
+<tuv xml:lang="de-DE">
+<seg>QA-Regel für ein Lilt Memory hinzufügen und entfernen</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>
