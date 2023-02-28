@@ -6,7 +6,7 @@ The DataLit<sup>MT</sup> project based at the Institute of Translation and Multi
 
 Together with the Directorate-General for Translation of the European Commission, we are organising a Translating Europe Workshop, in which we present the outcomes of the DataLit<sup>MT</sup> project. This Workshop will be held online on 19 April 2023. Join us and meet the team. Registration for this workshop will open soon.
 
-[TEW_200](https://user-images.githubusercontent.com/77116913/221958020-ab68ffcf-df96-49f6-a10d-cb3e7ca8f3d4.png)
+![TEW_200](https://user-images.githubusercontent.com/77116913/221958020-ab68ffcf-df96-49f6-a10d-cb3e7ca8f3d4.png)
 
 DataLitMT provides its outcomes as [open educational resources](https://open-educational-resources.de/) under a Creative Commons license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). All learning resources developed by DataLit<sup>MT</sup> are publicly available on this website. These resources at the interface of professional MT literacy and data literacy can complement the learning resources developed by more extensive MT training initiatives, such as the [MultiTraiNMT](https://multitrainmt.eu/index.php/es/) project.
 
