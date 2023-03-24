@@ -1,0 +1,8 @@
+﻿Trainings-App auf der Apple Watch verwenden
+Du erhältst während des Trainings Fortschrittsberichte und wirst darauf aufmerksam gemacht, wenn du dein Ziel erreicht hast.
+Training starten
+1. Öffne die Trainings-App.
+2. Wähle das Training, das deiner Aktivität am ehesten entspricht. Hier erfährst du mehr über die einzelnen Trainingsarten.
+3. Um ein Ziel festzulegen, tippe auf die Taste für weitere Optionen neben dem Training, dass du absolvieren möchtest. Wenn du kein Ziel festlegen möchtest, tippe auf das Training.
+4. Warte den Countdown von 3 Sekunden ab. Du kannst den Countdown überspringen, indem du auf den Bildschirm tippst.
+5. Trainiere. Öffne die Trainings-App, streiche nach rechts, und tippe auf die Neu-Taste, um eine andere Trainingsart hinzuzufügen, ohne das aktuelle Training zu beenden.

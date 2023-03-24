@@ -1,0 +1,8 @@
+﻿Verwenden der Workout-App auf Ihrer Apple Watch
+Sie erhalten Updates zu Ihrem Fortschritt, während Sie trainieren, und werden benachrichtigt, wenn Sie Ihr Ziel erreichen.
+Workout starten:
+1. Öffnen Sie die Workout-App.
+2. Wählen Sie das Training, das am besten zu Ihrer Aktivität passt. Erfahren Sie mehr über jeden Trainingstyp.
+3. Um ein Ziel festzulegen, tippen Sie auf die Schaltfläche Mehr neben dem Training, das Sie durchführen möchten. Wenn Sie sich kein Ziel setzen möchten, tippen Sie auf das Training.
+4. Warten Sie den Countdown von drei Sekunden ab. Um den Countdown zu überspringen, tippen Sie auf den Bildschirm.
+5. Work out. Um eine andere Art von Training hinzuzufügen, ohne Ihr aktives Training zu beenden, öffnen Sie die Workout-App, wischen Sie nach rechts und tippen Sie dann auf die Schaltfläche Neu.
