@@ -1,8 +1,0 @@
-﻿Using the Workout app on your Apple Watch
-You get updates on your progress while you work out and get notified when you reach your goal.
-Start workout:
-1. Open the Workout app.
-2. Select the workout that best matches your activity. Learn more about each workout type.
-3. To set a goal, tap the More button next to the workout that you want to do. If you don’t want to set a goal, tap the workout.
-4. Wait for the countdown of three seconds. To skip the countdown, tap the screen.
-5. Work out. To add another type of workout without ending your active workout, open the Workout app, swipe right, then tap the New button.
